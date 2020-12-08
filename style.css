@@ -51,6 +51,12 @@ h3 {
     margin: 0;
     margin-bottom: -8px;
 }
+
+.expectations {
+    margin-top: 4.7rem;
+    margin-left: 6rem;
+  
+}
 /* MATRIX */
 main, footer {
     max-width: 1300px;
